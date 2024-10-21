@@ -3,25 +3,37 @@
         "nome": "Calça Jeans",
         "tamanho": 42,
         "preco": 139.99,
-        "imagem": "img/teste.jpg"
+        "imagem": "calcajeans.webp"
     },
     {
         "nome":"Tênis Feminino",
         "tamanho": 37,
         "preco": 199.90,
-        "imagem": "img/teste.jpg"
+        "imagem": "tenisfeminino.webp"
 
     },
     {
         "nome": "Camiseta do Corinthians",
         "tamanho": "P,M,G,GG",
         "preco": 499.99,
-        "imagem": "img/teste.jpg"
+        "imagem": "camiseta.jpg"
     },
     {
-        "nome": "Sapatilha Anacapri",
+        "nome": "Stip on Anacapri",
         "tamanho": 38,
         "preco": 104.99,
-        "imagem":"img/teste.jpg"
+        "imagem":"sapato.webp"
+    },
+    {
+        "nome":"Camisa Casual",
+        "tamanho":"P,M,G,GG",
+        "preco": 99.90,
+        "imagem":"CAMISACASUAL.jpg"
+    },
+    {
+        "nome": "Shorts academia",
+        "tamanho": 44,
+        "preco": 59.90,
+        "imagem":"shorts.webp"
     }
 ]
